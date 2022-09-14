@@ -1,0 +1,18 @@
+Passo a Passo 
+
+- Criar um repositório remoto
+
+- Clonar o repositório localmente (1x)
+         (git clone url)
+
+- Criar / modificar arquivos
+         (git status)
+
+- Escolher arquivos que queremos salvar na nova versão 
+         (git add .)
+
+- Salvamos a nova versão
+(git commit -m "Mensagem")
+
+- Enviamos a nova versão para atualizar o repositório remoto
+          (git push)
